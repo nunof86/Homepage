@@ -6,6 +6,12 @@
 sudo apt update && sudo apt full-upgrade -y
 ```
 
+## Curl Installation
+
+```bash
+sudo apt install curl -y
+```
+
 ## Install Required Packages
 
 ```bash
